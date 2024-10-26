@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace EjercicioAbstraccion
 {
-    public  class Triangulo  :FormulaMatematica
+    public  class Triangulo  : FormulaMatematica
     {
         public double Base {  get; set; }
         public double Altura {  get; set; }
